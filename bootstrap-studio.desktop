@@ -1,0 +1,14 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=Bootstrap Studio
+Path=/opt/bootstrapstudio/
+Icon=bootstrap-studio
+Exec="/opt/bootstrapstudio/Bootstrap Studio" %F
+Comment=A Powerful Web Design & Development Tool
+Categories=Development
+StartupNotify=false
+StartupWMClass=bstudio
+Terminal=false
+MimeType=application/x-bstudio-design;application/x-bstudio-component
